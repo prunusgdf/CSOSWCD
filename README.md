@@ -1,2 +1,2 @@
 # CSOSWPD
-Control Software of Solar Wing Compacting Device
+Control Software of Solar Wing Packaging Device
